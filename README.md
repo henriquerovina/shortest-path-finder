@@ -7,8 +7,9 @@ I designed this for **personal use** to optimize my daily commute between classe
 
 ### ✨ Key Features
 * **Pathfinding Engine:** Real-time shortest path calculation using weighted graphs and Adjacency Lists.
-* **Toggle Modes:** * **User Mode:** Clean, minimal navigation interface.
-    * **Technical Mode:** Press **'T'** to reveal the waypoint network, node labels, and edge connections.
+* **Toggle Modes:** *
+   * **User Mode:** Clean, minimal navigation interface.
+   * **Technical Mode:** Press **'T'** to reveal the waypoint network, node labels, and edge connections.
 * **Animated UI:** Smooth, segment-based path rendering.
 * **Responsive Scaling:** Custom coordinate mapping ensures accuracy across all window sizes.
 
