@@ -16,7 +16,7 @@ I designed this for **personal use** to optimize my daily commute between classe
 ### 🛠️ Tech Stack
 * **Language:** Java
 * **Graphics:** Swing & AWT (Graphics2D)
-* **Algorithm:** Dijkstra’s Shortest Path ($O(E \log V)$)
+* **Algorithm:** Dijkstra’s
 
 ### 🚀 How to Run
 1. Ensure `campus_map.png` is in the root directory.
